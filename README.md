@@ -1,6 +1,6 @@
 <h1>ACtive Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://www.youtube.com/channel/UCPVCO_tl4mvIWll8l9GqYYA)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=5M8Ks9qQ4vw)
 
 <h2>Description</h2>
 Project consists of a simple Active Directory Home Lab environment created in Oracle Virtual Box.
@@ -18,6 +18,16 @@ Project consists of a simple Active Directory Home Lab environment created in Or
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating users with powershell <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Powershell script thanks to Josh Madakor for the help!<br/>
+<img src="https://imgur.com/a/wjlUQqX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Domain Controller viewpoint, displaying leased addresses.<br/>
+<img src="https://imgur.com/a/vj2EPWC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+This last screenshot just shows the IP configs for the endpoint. Everything is working nicely. <br/>
+<img src="https://imgur.com/a/q4pSJs4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
