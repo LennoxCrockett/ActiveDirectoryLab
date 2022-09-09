@@ -1,4 +1,4 @@
-<h1>ACtive Directory Home Lab</h1>
+<h1>Active Directory Home Lab</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=5M8Ks9qQ4vw)
 
