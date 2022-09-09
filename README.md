@@ -15,19 +15,17 @@ Project consists of a simple Active Directory Home Lab environment created in Or
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+
 
 <p align="center">
-Powershell script thanks to Josh Madakor for the help!<br/>
-<img src="https://imgur.com/a/wjlUQqX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Powershell script<br/>
+<img src="https://imgur.com/pJctFLM" height="80%" width="80%" alt="Powershell Script"/>
 <br />
-
-<p align="center">
+<br />
 Domain Controller viewpoint, displaying leased addresses.<br/>
-<img src="https://imgur.com/a/vj2EPWC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gallery/JBty5lC" height="80%" width="80%" alt="Leased Addresses"/>
 <br />
-
-<p align="center">
+<br />
 This last screenshot just shows the IP configs for the endpoint. Everything is working nicely. <br/>
-<img src="https://imgur.com/a/q4pSJs4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="https://imgur.com/a/q4pSJs4" height="80%" width="80%" alt="IP Configuration"/>
+</p>
